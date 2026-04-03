@@ -1,8 +1,8 @@
 # 🌦️ Real-time Weather Data Pipeline
-Automated ETL Orchestration with Apache Airflow & AWS
+_Automated ETL Orchestration with Apache Airflow & AWS_
 
-#📌 Project Overview
-This project implements a robust End-to-End Data Pipeline designed to ingest, transform, and store real-time weather metrics from global cities. Utilizing the OpenWeather API, the system automates the flow of data from source to a cloud-based data warehouse, enabling high-performance analytics.
+# 📌 Project Overview
+`This project implements a robust End-to-End Data Pipeline designed to ingest, transform, and store real-time weather metrics from global cities. Utilizing the OpenWeather API, the system automates the flow of data from source to a cloud-based data warehouse, enabling high-performance analytics.`
 
 # 🏗️ Architecture Design
 Based on the architecture diagram, the pipeline follows a modern Medallion-style approach:
